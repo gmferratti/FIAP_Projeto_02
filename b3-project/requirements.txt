@@ -1,3 +1,8 @@
 selenium
 webdriver-manager
 pandas
+boto3 
+pyarrow
+python-dotenv
+requests_html 
+beautifulsoup4
