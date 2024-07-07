@@ -6,3 +6,5 @@ pyarrow
 python-dotenv
 requests_html 
 beautifulsoup4
+yfinance
+schedule
